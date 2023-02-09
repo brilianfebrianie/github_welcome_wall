@@ -17,6 +17,7 @@ You've read [the article](https://towardsdatascience.com/getting-started-with-gi
 
 **[Getting started with Git and GitHub: the complete beginner's guide (plus the easiest way to contribute to your first open source project ever!)](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)**
 
+**File ini telah diedit oleh Brilian Febrianie dengan NIM 082011633082**
 
 This is a tiny project that only exists to welcome newcomers to the GitHub process. If you are totally new to the Git and GitHub thing and you need a safe place to figure out how to clone a repository, make a change, and create a pull request, you're in the right place.
 
